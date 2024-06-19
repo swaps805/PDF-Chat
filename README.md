@@ -3,8 +3,7 @@
 This project is a Streamlit application that enables users to interactively chat with multiple PDFs using Retrieval-Augmented Generation (RAG) and vector databases.
 
 ## Usage
-Clone the repository and run ```streamlit run app.py``` 
-
+Clone the repository and run `streamlit run app.py`.
 
 ## How It Works
 
@@ -16,7 +15,6 @@ Clone the repository and run ```streamlit run app.py```
 
 ![RAG Architechture](./images/RAG_arch.jpg)
 
-# Screenshots of application
+## Screenshots of application
 
 ![Screenshot 1](./images/ss.jpg)
-
