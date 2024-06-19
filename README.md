@@ -1,4 +1,4 @@
-# PDF Chatbot with Streamlit
+# PDF Chatbot With Streamlit
 
 This project is a Streamlit application that enables users to interactively chat with multiple PDFs using Retrieval-Augmented Generation (RAG) and vector databases.
 
